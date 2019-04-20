@@ -2,7 +2,7 @@ STD_INPUT_HANDLE = -10
 STD_OUTPUT_HANDLE = -11
 STD_ERROR_HANDLE = -12
 
-FOREGROUND_BLACK = 0x00
+#FOREGROUND_BLACK = 0x00
 FOREGROUND_BLUE = 0x01 # text color contains blue.
 FOREGROUND_GREEN = 0x02 # text color contains green.
 FOREGROUND_RED = 0x04 # text color contains red.
