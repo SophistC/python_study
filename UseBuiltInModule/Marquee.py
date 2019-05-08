@@ -25,7 +25,7 @@ import os
 import time
 
 def Marquee(string):
-  space = " "*50
+  space = " "*70
   for i in range(len(string)):
     os.system("cls")
     print("\n\n\n\n")
