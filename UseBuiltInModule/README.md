@@ -1,25 +1,34 @@
-*¸ğµç ÆÄÀÏÀº À©µµ¿ì10 ±â¹İ*
+*ëª¨ë“  íŒŒì¼ì€ ìœˆë„ìš°10 ê¸°ë°˜*
+*All files are based on Windows 10*
 
-# CurtainString - ¹®ÀÚ¿­ Ä¿Æ°
+# CurtainString - ë¬¸ìì—´ ì»¤íŠ¼(String curtain)
 
-*IDLEÀÌ ¾Æ´Ñ Å¬¸¯À» ÅëÇØ ¸í·É ÇÁ·ÒÆ÷Æ® È­¸é¿¡¼­ ½ÇÇà ¹Ù¶÷*
+*IDLEì´ ì•„ë‹Œ í´ë¦­ì„ í†µí•´ ëª…ë ¹ í”„ë¡¬í¬íŠ¸ í™”ë©´ì—ì„œ ì‹¤í–‰ ë°”ëŒ*
+*Run from command prompt screen via click, not IDLE*
 
-# Marquee - ½½¶óÀÌµù ÅØ½ºÆ®
+# Marquee - ìŠ¬ë¼ì´ë”© í…ìŠ¤íŠ¸(Sliding text)
 
-ÅØ½ºÆ®°¡ ¿ŞÂÊ¿¡¼­ ¿À¸¥ÂÊÀ¸·Î Èê·¯°¨
+í…ìŠ¤íŠ¸ê°€ ì™¼ìª½ì—ì„œ ì˜¤ë¥¸ìª½ìœ¼ë¡œ í˜ëŸ¬ê°
+Text flows from left to right
 
-*¸í·É ÇÁ·ÒÆ÷Æ®·Î ½ÇÇà ¿ä¸Á*
+*ëª…ë ¹ í”„ë¡¬í¬íŠ¸ë¡œ ì‹¤í–‰*
+*Execute as command prompt*
 
-# ModuleDownloader - ¸ğµâ ´Ù¿î·Î´õ
+# ModuleDownloader - ëª¨ë“ˆ ë‹¤ìš´ë¡œë”(Module downloader)
 
-*pip°æ·Î°¡ path¿¡ µî·ÏµÇÁö ¾Ê¾Æµµ ÀÚµ¿À¸·Î °æ·Î¸¦ Ã£¾Æ¼­ pip¸¦ ½ÇÇà½ÃÄÑÁÜ*
+*pipê²½ë¡œê°€ pathì— ë“±ë¡ë˜ì§€ ì•Šì•„ë„ ìë™ìœ¼ë¡œ ê²½ë¡œë¥¼ ì°¾ì•„ì„œ pipë¥¼ ì‹¤í–‰ì‹œì¼œì¤Œ*
+*Even if the pip path is not registered in the path, it automatically finds the path and runs pip*
 
-*'import ÆĞÅ°Áö¸í'À» ÇØµµ ¿À·ù°¡ ³ª¿À´Â ÇÁ·¹ÀÓ¿öÅ© µîÀÇ °æ¿ì ¼³Ä¡ ÀÎ½ÄÀ» ÇÏÁö ¸øÇÒ ¼öµµ ÀÖÀ¸³ª, ¼³Ä¡ ÀÚÃ¼´Â µÊ*
+*'import íŒ¨í‚¤ì§€ëª…'ì„ í•´ë„ ì˜¤ë¥˜ê°€ ë‚˜ì˜¤ëŠ” í”„ë ˆì„ì›Œí¬ ë“±ì˜ ê²½ìš° ì„¤ì¹˜ ì¸ì‹ì„ í•˜ì§€ ëª»í•  ìˆ˜ë„ ìˆìœ¼ë‚˜, ì„¤ì¹˜ ìì²´ëŠ” ë¨*
+*The 'import package name' may not recognize the installation in the case of a framework that produces an error, but the installation itself will be done*
 
-# MusicBar - À½¾Ç ¹Ù
+# MusicBar - ìŒì•… ë°”(Music bar)
 
-À½¾Ç µéÀ» ¶§ ³ª¿À´Â ¹ÙÀÇ ÇüÅÂÀÌ³ª ¼Ò¸®¿Í´Â ¾Æ¹« °ü·Ã ¾øÀ½.
+ìŒì•… ë“¤ì„ ë•Œ ë‚˜ì˜¤ëŠ” ë°”ì˜ í˜•íƒœì´ë‚˜ ì†Œë¦¬ì™€ëŠ” ì•„ë¬´ ê´€ë ¨ ì—†ìŒ.
+Just shape of music bar
 
-*Option¿¡¼­ onÀ» ÀÔ·ÂÇÏ¸é »ö È¿°ú*
+*Optionì—ì„œ onì„ ì…ë ¥í•˜ë©´ ìƒ‰ íš¨ê³¼*
+*Color effect when typing 'on' in Option*
 
-*¸í·É ÇÁ·ÒÆ÷Æ®·Î ½ÇÇà ¿ä¸Á*
+*ëª…ë ¹ í”„ë¡¬í¬íŠ¸ë¡œ ì‹¤í–‰*
+*Execute as command prompt*
